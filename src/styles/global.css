@@ -43,8 +43,12 @@
   --color-orange: var(--orange);
   --color-yellow: var(--yellow);
   --color-pink: var(--pink);
+
   --font-bricolage-grotesque: var(--font-bricolage-grotesque);
   --font-bayer-universal: var(--font-bayer-universal);
+
+  --breakpoint-sm: 37.5rem;
+  --breakpoint-md: 53.125rem;
 }
 
 :root {
