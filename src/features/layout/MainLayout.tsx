@@ -33,11 +33,11 @@ export default function MainLayout({
     <html lang="pt-BR">
       <body
         className={cn(
-          "antialiased min-h-screen flex flex-col",
+          "texture flex min-h-screen flex-col antialiased",
           geistSans.variable,
           geistMono.variable,
           bricolageGrotesque.variable,
-          bayerUniversal.variable
+          bayerUniversal.variable,
         )}
       >
         <Header />
